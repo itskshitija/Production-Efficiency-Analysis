@@ -2,6 +2,8 @@
 
 Welcome to the **EcoDrive Innovations: Production Efficiency Analysis** project! This analysis evaluates the production performance of EcoDrive Innovations' centers by comparing actual outputs with targets. The project identifies trends, areas of concern, and opportunities for optimization.
 
+# Access Google Sheets for the comprehensive overview of the project [Here](https://docs.google.com/spreadsheets/d/1_oNEUXCL014XnAtdXcZYxHZfKMfrUvAhPdCKmpfo_GY/edit?usp=sharing)
+
 ## 📝 Project Overview
 
 ### Objectives
