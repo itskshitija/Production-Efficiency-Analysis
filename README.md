@@ -1,3 +1,7 @@
+<a href="https://www.linkedin.com/in/kshitija-chilbule-b98515309/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
+</a>
+
 # 📊 EcoDrive Innovations: Production Efficiency Analysis
 
 Welcome to the **EcoDrive Innovations: Production Efficiency Analysis** project! This analysis evaluates the production performance of EcoDrive Innovations' centers by comparing actual outputs with targets. The project identifies trends, areas of concern, and opportunities for optimization.
@@ -63,8 +67,8 @@ This project includes dashboards and visualizations for:
 3.  The Chennai Production Center stands out as the top-performing facility, with a total production of 30,800 units.
 4.  The Jaipur Production Center has underperformed, producing only 15,100 units, indicating an area of potential improvement.
 
-## 📬 Contact
-**Author:** Kshitija Chilbule
-
-For inquiries, email: kshitijachilbule2@gmail.com
-
+## Connect 🤝
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Medium:</b> https://medium.com/@kshitijachilbule2
