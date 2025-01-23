@@ -63,4 +63,8 @@ This project includes dashboards and visualizations for:
 3.  The Chennai Production Center stands out as the top-performing facility, with a total production of 30,800 units.
 4.  The Jaipur Production Center has underperformed, producing only 15,100 units, indicating an area of potential improvement.
 
+## 📬 Contact
+**Author:** Kshitija Chilbule
+
+For inquiries, email: kshitijachilbule2@gmail.com
 
