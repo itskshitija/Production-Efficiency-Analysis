@@ -14,7 +14,7 @@ Welcome to the **EcoDrive Innovations: Production Efficiency Analysis** project!
 1. **Production Center Performance:** Assess each production center's monthly and overall performance against targets.
 2. **Company-Wide Analysis:** Evaluate company-level production trends for the first six months and identify areas for improvement.
 
-### Dataset
+### 🔠Dataset
 **Target Production Data:** Monthly production targets for each center.
   
 | **Production Center** | **Jan** | **Feb** | **Mar** | **Apr** | **May** | **Jun** |
@@ -98,7 +98,6 @@ This section provides an overview of total production across different centers a
 | **Ahmedabad**      | 19,500 units     | Yes             |  
 | **Jaipur**         | 15,100 units     | No (Underperforming) |  
 
-## Key Metrics:
 - **Minimum Production**:  
   - **15,100 units** by **Jaipur**.  
   - Indicates room for improvement in production processes.
